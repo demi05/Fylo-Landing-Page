@@ -19,6 +19,9 @@
   --main-font: "Raleway", sans-serif;
   --secondary-font: "Open Sans", sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 body {
   /* background-color: var(--Light-Grayish-Blue); */
   font-family: var(--secondary-font);
