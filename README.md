@@ -74,8 +74,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/demi05/Fylo-Landing-Page)
+- Live Site URL: [Live Site](https://demi05.github.io/Fylo-Landing-Page/)
 
 ## My process
 I did a mobile first workflow abd worked my way to the desktop view where i used mainly flexbox to achieve my design
